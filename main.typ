@@ -52,14 +52,17 @@
     "Intern",
     "Cognizant Technology Solutions",
     "Hyderabad, Telangana",
-    datetime(year:2008, month:3, day:1),
-    datetime(year:2013, month:3, day:1),
+    datetime(year:2022, month:3, day:1),
+    datetime(year:2022, month:6, day:1),
   )[
-    - Developed and enforced company policies through the creation of the “Schrute Bucks” incentive program, improving employee engagement
-    - Achieved record-breaking sales, earning the title of top salesperson for five consecutive years
-    - Supported managerial functions, including staff supervision, client relationship management, and strategic planning
-  ]
+    - Built full-stack dashboard with Spring Boot, Java, MySQL, automating filtration, cutting effort by 90%.
+    - Developed React front-end, enabling project filtering with 4+ criteria using modern web technologies.
+    - Implemented scalable MySQL database, supporting more than 400 concurrent users for efficient data querying.
+    - Leveraged Spring Boot, Java, MySQL, and React to create an impactful automation tool.
+    - Earned Cognizant Digital Nurture full-stack certification, scoring more than 70% in expertise.
 
+  ]
+]
 
 #custom-title("Projects")[
   #project-heading(

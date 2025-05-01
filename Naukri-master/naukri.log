@@ -1,0 +1,280 @@
+2025-05-01 22:25:04,374    : -----Naukri.py Script Run Begin-----
+2025-05-01 22:25:10,574    : Google Chrome Launched!
+2025-05-01 22:25:13,091    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 22:25:13,104    : Website Loaded Successfully.
+2025-05-01 22:25:24,150    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 139.
+2025-05-01 22:25:24,151    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 146.
+2025-05-01 22:55:20,363    : -----Naukri.py Script Run Begin-----
+2025-05-01 22:55:23,948    : Google Chrome Launched!
+2025-05-01 22:55:26,436    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 22:55:26,587    : Website Loaded Successfully.
+2025-05-01 22:55:28,195    : Driver Closed Successfully
+2025-05-01 22:55:28,393    : Driver Quit Successfully
+2025-05-01 22:55:28,394    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 22:55:39,863    : -----Naukri.py Script Run Begin-----
+2025-05-01 22:55:43,502    : Google Chrome Launched!
+2025-05-01 22:55:44,653    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 22:55:44,697    : Website Loaded Successfully.
+2025-05-01 22:55:47,589    : Driver Closed Successfully
+2025-05-01 22:55:47,845    : Driver Quit Successfully
+2025-05-01 22:55:47,845    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:02:58,886    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:03:02,616    : Google Chrome Launched!
+2025-05-01 23:03:03,758    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:03:03,794    : Website Loaded Successfully.
+2025-05-01 23:03:17,225    : <class 'selenium.common.exceptions.TimeoutException'> : Message: 
+Stacktrace:
+#0 0x5668872697fa <unknown>
+#1 0x566886d0de90 <unknown>
+#2 0x566886d5f870 <unknown>
+#3 0x566886d5fa61 <unknown>
+#4 0x566886dadcb4 <unknown>
+#5 0x566886d8526d <unknown>
+#6 0x566886dab135 <unknown>
+#7 0x566886d85013 <unknown>
+#8 0x566886d51b3b <unknown>
+#9 0x566886d527a1 <unknown>
+#10 0x56688722eb9b <unknown>
+#11 0x566887232a8a <unknown>
+#12 0x566887216912 <unknown>
+#13 0x566887233604 <unknown>
+#14 0x5668871fb74f <unknown>
+#15 0x566887257678 <unknown>
+#16 0x566887257856 <unknown>
+#17 0x566887268666 <unknown>
+#18 0x77f106c9caa4 <unknown>
+#19 0x77f106d29c3c <unknown>
+ at Line 208.
+2025-05-01 23:03:17,307    : Driver Closed Successfully
+2025-05-01 23:03:17,504    : Driver Quit Successfully
+2025-05-01 23:03:17,504    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:03:26,962    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:03:30,543    : Google Chrome Launched!
+2025-05-01 23:03:33,365    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:03:33,426    : Website Loaded Successfully.
+2025-05-01 23:03:45,578    : <class 'selenium.common.exceptions.TimeoutException'> : Message: 
+Stacktrace:
+#0 0x5a485b9b57fa <unknown>
+#1 0x5a485b459e90 <unknown>
+#2 0x5a485b4ab870 <unknown>
+#3 0x5a485b4aba61 <unknown>
+#4 0x5a485b4f9cb4 <unknown>
+#5 0x5a485b4d126d <unknown>
+#6 0x5a485b4f7135 <unknown>
+#7 0x5a485b4d1013 <unknown>
+#8 0x5a485b49db3b <unknown>
+#9 0x5a485b49e7a1 <unknown>
+#10 0x5a485b97ab9b <unknown>
+#11 0x5a485b97ea8a <unknown>
+#12 0x5a485b962912 <unknown>
+#13 0x5a485b97f604 <unknown>
+#14 0x5a485b94774f <unknown>
+#15 0x5a485b9a3678 <unknown>
+#16 0x5a485b9a3856 <unknown>
+#17 0x5a485b9b4666 <unknown>
+#18 0x7feda509caa4 <unknown>
+#19 0x7feda5129c3c <unknown>
+ at Line 208.
+2025-05-01 23:03:45,671    : Driver Closed Successfully
+2025-05-01 23:03:45,894    : Driver Quit Successfully
+2025-05-01 23:03:45,894    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:04:04,794    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:04:08,539    : Google Chrome Launched!
+2025-05-01 23:04:09,760    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:04:09,797    : Website Loaded Successfully.
+2025-05-01 23:04:38,075    : <class 'urllib3.exceptions.ProtocolError'> : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) at Line 208.
+2025-05-01 23:04:38,078    : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd3283c560>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2243ed25137cfc7785e8a2a4b5f8575d/window
+2025-05-01 23:04:38,080    : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd3283c920>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2243ed25137cfc7785e8a2a4b5f8575d/window
+2025-05-01 23:04:38,081    : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd3283cc50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2243ed25137cfc7785e8a2a4b5f8575d/window
+2025-05-01 23:04:38,084    : <class 'urllib3.exceptions.MaxRetryError'> : HTTPConnectionPool(host='localhost', port=33843): Max retries exceeded with url: /session/2243ed25137cfc7785e8a2a4b5f8575d/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd3283ce00>: Failed to establish a new connection: [Errno 111] Connection refused')) at Line 140.
+2025-05-01 23:04:38,086    : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd32caadb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2243ed25137cfc7785e8a2a4b5f8575d
+2025-05-01 23:04:38,088    : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd3283c8c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2243ed25137cfc7785e8a2a4b5f8575d
+2025-05-01 23:04:38,089    : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70bd3283d040>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2243ed25137cfc7785e8a2a4b5f8575d
+2025-05-01 23:04:37,639    : Driver Quit Successfully
+2025-05-01 23:04:37,639    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:05:50,255    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:05:53,825    : Google Chrome Launched!
+2025-05-01 23:05:56,246    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:05:56,397    : Website Loaded Successfully.
+2025-05-01 23:06:49,257    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 140.
+2025-05-01 23:06:49,257    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 147.
+2025-05-01 23:06:52,415    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:06:55,987    : Google Chrome Launched!
+2025-05-01 23:06:57,089    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:06:57,131    : Website Loaded Successfully.
+2025-05-01 23:07:14,071    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 140.
+2025-05-01 23:07:14,071    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 147.
+2025-05-01 23:08:07,656    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:08:11,301    : Google Chrome Launched!
+2025-05-01 23:08:12,418    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:08:12,443    : Website Loaded Successfully.
+2025-05-01 23:08:32,750    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 140.
+2025-05-01 23:08:32,751    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 147.
+2025-05-01 23:11:38,807    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:11:42,524    : Google Chrome Launched!
+2025-05-01 23:11:43,624    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:11:43,665    : Website Loaded Successfully.
+2025-05-01 23:12:08,000    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 140.
+2025-05-01 23:12:08,001    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 147.
+2025-05-01 23:15:20,811    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:15:24,392    : Google Chrome Launched!
+2025-05-01 23:15:25,520    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:15:25,556    : Website Loaded Successfully.
+2025-05-01 23:15:48,924    : Element not found with XPATH : //*[@id='identifierId']
+2025-05-01 23:15:51,992    : Element not found with XPATH : //*[@id='identifierId']
+2025-05-01 23:15:51,993    : <class 'AttributeError'> : 'NoneType' object has no attribute 'send_keys' at Line 211.
+2025-05-01 23:15:52,108    : Driver Closed Successfully
+2025-05-01 23:15:52,374    : Driver Quit Successfully
+2025-05-01 23:15:52,374    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:16:32,618    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:16:36,227    : Google Chrome Launched!
+2025-05-01 23:16:37,358    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:16:37,378    : Website Loaded Successfully.
+2025-05-01 23:16:54,887    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 140.
+2025-05-01 23:16:54,888    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 147.
+2025-05-01 23:17:34,174    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:17:37,884    : Google Chrome Launched!
+2025-05-01 23:17:40,271    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:17:40,438    : Website Loaded Successfully.
+2025-05-01 23:17:51,875    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 140.
+2025-05-01 23:17:51,875    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 147.
+2025-05-01 23:18:25,210    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:18:28,989    : Google Chrome Launched!
+2025-05-01 23:18:30,138    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:18:30,202    : Website Loaded Successfully.
+2025-05-01 23:18:53,612    : Element not found with XPATH : //*[@id='identifierId']
+2025-05-01 23:18:56,673    : Element not found with XPATH : //*[@id='identifierId']
+2025-05-01 23:18:56,753    : Driver Closed Successfully
+2025-05-01 23:18:56,969    : Driver Quit Successfully
+2025-05-01 23:18:56,970    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:22:13,138    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:22:16,764    : Google Chrome Launched!
+2025-05-01 23:22:17,896    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:22:17,929    : Website Loaded Successfully.
+2025-05-01 23:22:25,875    : <class 'selenium.common.exceptions.NoSuchElementException'> : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="identifierId"]"}
+  (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56c76862d7fa <unknown>
+#1 0x56c7680d1e90 <unknown>
+#2 0x56c768123870 <unknown>
+#3 0x56c768123a61 <unknown>
+#4 0x56c768171cb4 <unknown>
+#5 0x56c76814926d <unknown>
+#6 0x56c76816f135 <unknown>
+#7 0x56c768149013 <unknown>
+#8 0x56c768115b3b <unknown>
+#9 0x56c7681167a1 <unknown>
+#10 0x56c7685f2b9b <unknown>
+#11 0x56c7685f6a8a <unknown>
+#12 0x56c7685da912 <unknown>
+#13 0x56c7685f7604 <unknown>
+#14 0x56c7685bf74f <unknown>
+#15 0x56c76861b678 <unknown>
+#16 0x56c76861b856 <unknown>
+#17 0x56c76862c666 <unknown>
+#18 0x75905049caa4 <unknown>
+#19 0x759050529c3c <unknown>
+ at Line 208.
+2025-05-01 23:22:25,963    : Driver Closed Successfully
+2025-05-01 23:22:26,185    : Driver Quit Successfully
+2025-05-01 23:22:26,185    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:25:00,144    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:25:03,820    : Google Chrome Launched!
+2025-05-01 23:25:06,138    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:25:06,266    : Website Loaded Successfully.
+2025-05-01 23:25:09,832    : Driver Closed Successfully
+2025-05-01 23:25:10,069    : Driver Quit Successfully
+2025-05-01 23:25:10,069    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:25:49,804    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:25:53,806    : Google Chrome Launched!
+2025-05-01 23:25:56,121    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:25:56,181    : Website Loaded Successfully.
+2025-05-01 23:26:09,690    : Driver Closed Successfully
+2025-05-01 23:26:09,884    : Driver Quit Successfully
+2025-05-01 23:26:09,885    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:33:10,464    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:33:14,015    : Google Chrome Launched!
+2025-05-01 23:33:16,024    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:33:16,062    : Website Loaded Successfully.
+2025-05-01 23:33:21,637    : Driver Closed Successfully
+2025-05-01 23:33:21,870    : Driver Quit Successfully
+2025-05-01 23:33:21,870    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:33:41,846    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:33:45,531    : Google Chrome Launched!
+2025-05-01 23:33:46,664    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:33:46,705    : Website Loaded Successfully.
+2025-05-01 23:34:02,297    : Driver Closed Successfully
+2025-05-01 23:34:02,499    : Driver Quit Successfully
+2025-05-01 23:34:02,499    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:34:21,772    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:34:25,425    : Google Chrome Launched!
+2025-05-01 23:34:26,526    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:34:26,563    : Website Loaded Successfully.
+2025-05-01 23:34:42,663    : Driver Closed Successfully
+2025-05-01 23:34:42,881    : Driver Quit Successfully
+2025-05-01 23:34:42,881    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:39:31,036    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:39:34,686    : Google Chrome Launched!
+2025-05-01 23:39:37,086    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:39:37,227    : Website Loaded Successfully.
+2025-05-01 23:39:55,781    : Element not found with XPATH : //*[contains(@class, 'cross-icon') or @alt='cross-icon']
+2025-05-01 23:40:00,951    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2025-05-01 23:40:02,022    : Naukri Login Successful
+2025-05-01 23:40:14,834    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2025-05-01 23:40:26,712    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2025-05-01 23:40:29,744    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2025-05-01 23:40:31,194    : Profile Update Successful
+2025-05-01 23:40:36,194    : Resume not found at original_resume.pdf 
+2025-05-01 23:40:36,453    : Driver Closed Successfully
+2025-05-01 23:40:36,668    : Driver Quit Successfully
+2025-05-01 23:40:36,668    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:46:15,572    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:46:19,431    : Google Chrome Launched!
+2025-05-01 23:46:21,804    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:46:21,929    : Website Loaded Successfully.
+2025-05-01 23:46:40,553    : Element not found with XPATH : //*[contains(@class, 'cross-icon') or @alt='cross-icon']
+2025-05-01 23:46:45,731    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2025-05-01 23:46:46,802    : Naukri Login Successful
+2025-05-01 23:46:59,662    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2025-05-01 23:47:11,573    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2025-05-01 23:47:14,660    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2025-05-01 23:47:16,096    : Profile Update Successful
+2025-05-01 23:47:34,246    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2025-05-01 23:47:41,895    : Element not found with ID : //button[@type='button']
+2025-05-01 23:47:43,010    : Resume Document Upload Successful. Last Updated date = Uploaded on May 01, 2025
+2025-05-01 23:47:45,240    : Driver Closed Successfully
+2025-05-01 23:47:45,478    : Driver Quit Successfully
+2025-05-01 23:47:45,478    : -----Naukri.py Script Run Ended-----
+
+2025-05-01 23:49:44,553    : -----Naukri.py Script Run Begin-----
+2025-05-01 23:49:48,140    : Google Chrome Launched!
+2025-05-01 23:49:50,451    : Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+2025-05-01 23:49:50,574    : Website Loaded Successfully.
+2025-05-01 23:50:09,112    : Element not found with XPATH : //*[contains(@class, 'cross-icon') or @alt='cross-icon']
+2025-05-01 23:50:14,287    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2025-05-01 23:50:15,356    : Naukri Login Successful
+2025-05-01 23:50:28,165    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2025-05-01 23:50:40,098    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2025-05-01 23:50:43,190    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2025-05-01 23:50:44,614    : Profile Update Successful
+2025-05-01 23:51:02,707    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2025-05-01 23:51:10,362    : Element not found with ID : //button[@type='button']
+2025-05-01 23:51:11,496    : Resume Document Upload Successful. Last Updated date = Uploaded on May 01, 2025
+2025-05-01 23:51:13,681    : Driver Closed Successfully
+2025-05-01 23:51:13,918    : Driver Quit Successfully
+2025-05-01 23:51:13,918    : -----Naukri.py Script Run Ended-----
+

@@ -9,7 +9,7 @@
 
 #show: resume.with(
   top-margin: 0.45in,
-  personal-info-font-size: 9.2pt,
+  personal-info-font-size: 8.0pt,
   author-position: center,
   personal-info-position: center,
   author-name: name,
@@ -57,7 +57,7 @@
   )[
     - Built full-stack dashboard with Spring Boot, Java, MySQL, automating filtration, cutting effort by 90%.
     - Developed React front-end, enabling project filtering with 4+ criteria using modern web technologies.
-    - Implemented scalable MySQL database, supporting more than 400 concurrent users for efficient data querying.
+    - Implemented scalable MySQL database, supporting 400+ users for efficient data querying.    
     - Leveraged Spring Boot, Java, MySQL, and React to create an impactful automation tool.
     - Earned Cognizant Digital Nurture full-stack certification, scoring more than 70% in expertise.
 
@@ -69,11 +69,13 @@
     "Leecode Elo tracker"+"\u{1F517}",
     project-url: "https://leetcode-elo-app.onrender.com/"
   )[
-      - Designed a robust backend using Spring Boot to fetch prebuilt data and update a PostgreSQL database with newly added problems.
-      - Implemented caching mechanisms to optimize API calls from the React frontend, reducing redundant requests and improving performance.
-      - Developed a dynamic frontend with React for seamless user interaction and real-time data visualization.
-      - Automated weekly data updates to ensure the database remains current without manual intervention.
-      - Optimized database queries and API response times for enhanced scalability and efficiency.
+
+      - Designed Spring Boot backend to fetch and update PostgreSQL database with new problems.
+      - Implemented caching to optimize React frontend API calls, cutting redundant requests.
+      - Developed React frontend for seamless user interaction and real-time data visualization.
+      - Automated weekly data updates, ensuring current PostgreSQL database without manual work.
+      - Optimized database queries and API response times for improved scalability and efficiency.
+
   ]
 
   ]
@@ -90,9 +92,12 @@
 
 
 #custom-title("Certifications")[
-  #skills()[
     - #link("https://drive.google.com/file/d/12K6AhU-woXlFiZg9GOn6ixbOlS1_HFnD/view")[AWS Certified Cloud Practitioner \u{1F517}]
     - GitHub Copilot: Your AI Coding Assistant. Use Copilot AI to generate code, unit tests, + more.
     - Deep Dive in Core Java programming -Standard Edition
-  ]
+]
+
+#custom-title("EXTRACURRICULAR")[
+  - Demonstrated usage of AI tools like Github Copilot, Codeium and explored its applications
+  - NCC Member from 2018 to 2021(B & C certificate holder)
 ]

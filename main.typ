@@ -28,28 +28,30 @@
     datetime(year: 2018, month: 8, day: 1),
     datetime(year: 2022, month: 6,  day: 1)
   )[
-    - Awarded “Most Determined Student” in senior year
+    -  CGPA - *9.02*
   ]
 ]
 
 #custom-title("Experience")[  
   #work-heading(
-    "Regional Manager",
-    "Dunder Mifflin",
-    "Scranton, PA",
-    datetime(year:2013, month:5, day:1),
+    "Software Engineer",
+    "Cognizant Technology Solutions",
+    "Kolkata, West Bengal",
+    datetime(year:2022, month:8
+    , day:1),
     "Present"
   )[
-    - Led a team of 10+ employees, boosting office productivity and morale
-    - Maintained the highest sales average, outperforming competitors despite market challenges
-    - Implemented innovative security measures to protect the office from threats, including criminal activity and wildlife intrusions
-    - Successfully negotiated client contracts, increasing annual revenue by 20%
+    - Improved code coverage from 20% to 90% using JaCoCo, JUnit, and CI/CD pipelines.
+    - Developed RESTful microservices with APIs, improving data accuracy by more than 15%.
+    - Reduced API latency by 40% during migration with cloud tools and monitoring.
+    - Automated data loading using Bash scripts, cutting processing time by 50%.
+    - Achieved 100% on-time Agile delivery via story pointing, planning poker and daily stand-ups.
   ]
 
   #work-heading(
-    "Assistant (to the) Regional Manager",
-    "Dunder Mifflin",
-    "Scranton, PA",
+    "Intern",
+    "Cognizant Technology Solutions",
+    "Hyderabad, Telangana",
     datetime(year:2008, month:3, day:1),
     datetime(year:2013, month:3, day:1),
   )[
@@ -57,31 +59,6 @@
     - Achieved record-breaking sales, earning the title of top salesperson for five consecutive years
     - Supported managerial functions, including staff supervision, client relationship management, and strategic planning
   ]
-
-  #work-heading(
-    "Sales Associate",
-    "Staples",
-    "Scranton, PA",
-    datetime(year:2008, month:3, day:1),
-    datetime(year:2008, month:3, day:1),
-  )[
-    - Recognized as “Employee of the Month” for outstanding sales performance within a single month
-    - Leveraged exceptional customer service skills to build a loyal client base
-    - Demonstrated leadership by training new hires on effective sales techniques
-  ]
-
-  #work-heading(
-    "Assistant (to the) Regional Manager",
-    "Dunder Mifflin",
-    "Scranton, PA",
-    datetime(year:2008, month:3, day:1),
-    datetime(year:2005, month:3, day:1),
-  )[
-    - Exceeded individual sales targets, contributing significantly to branch profitability
-    - Introduced “Schrute Bucks” as a motivational tool, fostering a competitive \& collaborative work environment
-    - Assisted in coordinating office events and initiatives to maintain team cohesion
-  ]
-]
 
 
 #custom-title("Projects")[

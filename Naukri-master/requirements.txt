@@ -2,3 +2,4 @@ reportlab==4.3.1
 selenium==4.30.0
 pypdf==5.4.0
 webdriver-manager==4.0.2 
+undetected-chromedriver==3.5.5 

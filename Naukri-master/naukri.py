@@ -14,7 +14,7 @@ from string import ascii_uppercase, digits
 from pypdf import PdfReader, PdfWriter
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
-from selenium import webdriver
+import undetected_chromedriver as uc
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
@@ -156,22 +156,21 @@ def randomText():
 def LoadNaukri(headless):
     """Open Chrome to load Naukri.com"""
 
-    options = webdriver.ChromeOptions()
-    options.add_argument("--disable-notifications")
-    options.add_argument("--start-maximized")  # ("--kiosk") for MAC
-    options.add_argument("--disable-popups")
-    options.add_argument("--disable-gpu")
-    if headless:
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("headless")
-
+    # options.add_argument("--start-maximized")  # ("--kiosk") for MAC
+    # options.add_argument("--disable-popups")
+    # options.add_argument("--disable-gpu")
+    # if headless:
+    #     options.add_argument("--disable-dev-shm-usage")
+    #     options.add_argument("headless")
+    #
     # updated to use latest selenium Chrome service
     driver = None
     try:
-        driver = webdriver.Chrome(options=options, service=ChromeService())
+        driver = uc.Chrome()
+        # driver = webdriver.Chrome(options=options, service=ChromeService())
     except Exception as e:
         print(f"Error launching Chrome: {e}")
-        driver = webdriver.Chrome(options)
+        driver = uc.Chrome()
     log_msg("Google Chrome Launched!")
 
     driver.implicitly_wait(5)

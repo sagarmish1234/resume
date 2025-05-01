@@ -1,11 +1,11 @@
 #import "@preview/simple-technical-resume:0.1.0": *
 
-#let name = "Dwight Schrute"
-#let phone = "+1 (123) 456-7890"
-#let email = "dschrute@dundermifflin.com"
-#let github = "dwight-schrute"
-#let linkedin = "dwight-schrute"
-#let personal-site = "dwightschrute.com"
+#let name = "Sagar Mishra"
+#let phone = "+91-6290632419"
+#let email = "sagarmish1234@gmail.com"
+#let github = "sagarmish1234"
+#let linkedin = "sagar-mishra-dev"
+#let personal-site = "sagarmish1234.github.io/portfolio-svelte"
 
 #show: resume.with(
   top-margin: 0.45in,
@@ -22,10 +22,11 @@
 
 #custom-title("Education")[
   #education-heading(
-    "Scranton University", "Scranton, PA",
-    "Bachelor of Arts", "Business Administration",
-    datetime(year: 1992, month: 9, day: 1),
-    datetime(year: 1998, month: 4,  day: 1)
+    "VSSUT, Veer Surendra Sai University of Technology",
+    "Sambalpur, Odisha",
+    "Bachelor of Technology", "Computer Science & Engineering",
+    datetime(year: 2018, month: 8, day: 1),
+    datetime(year: 2022, month: 6,  day: 1)
   )[
     - Awarded “Most Determined Student” in senior year
   ]

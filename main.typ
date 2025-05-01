@@ -66,11 +66,14 @@
 
 #custom-title("Projects")[
   #project-heading(
-    "Schrute Farms (Bed and Breakfast)",
+    "Leecode Elo tracker"+"\u{1F517}",
+    project-url: "https://leetcode-elo-app.onrender.com/"
   )[
-    - Established and managed a family-run agro-tourism business offering unique activities such as table-making workshops, beet farming tours, and hay rides
-    - Increased guest bookings by 50% through effective online marketing and guest engagement
-    - Maintained a 4.9/5 guest satisfaction rating on travel review platforms
+      - Designed a robust backend using Spring Boot to fetch prebuilt data and update a PostgreSQL database with newly added problems.
+      - Implemented caching mechanisms to optimize API calls from the React frontend, reducing redundant requests and improving performance.
+      - Developed a dynamic frontend with React for seamless user interaction and real-time data visualization.
+      - Automated weekly data updates to ensure the database remains current without manual intervention.
+      - Optimized database queries and API response times for enhanced scalability and efficiency.
   ]
 
   #project-heading(

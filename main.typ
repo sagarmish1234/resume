@@ -76,26 +76,23 @@
       - Optimized database queries and API response times for enhanced scalability and efficiency.
   ]
 
-  #project-heading(
-    "Dwight Schrute's Gym for Muscles",
-  )[
-    - Designed and equipped a workplace gym, promoting health and wellness for Dunder Mifflin employees
-    - Created a recycling program, offering monetary incentives (5 cents per yard of tin) to encourage sustainable practices
   ]
-
-  #project-heading(
-    "Sesame Avenue Daycare Center for Infants and Toddlers",
-  )[
-    - Founded an innovative daycare focused on cognitive development and early learning strategies
-    - Developed specialized programs combining physical activities and educational games for children
-  ]
-]
 
 
 #custom-title("Skills")[
   #skills()[
-    - *Professional Skills:* Sales Expertise, Leadership, Conflict Resolution, Strategic Planning, Negotiation
-    - *Personal Traits:* Hardworking, Alpha Male, Jackhammer, Merciless, Insatiable
-    - *Specialized Talents:* Karate (Black Belt), Jujitsu, Werewolf Hunting, Table Making
+    - *Languages:* Java,Python, C++, JavaScript, SQL
+    - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot, Spring batch, Javascript, ShadCN UI, Maven, Junit5, Cucumber testing, Cassandra DB, Docker
+    - *Developer Tools:* Control - M, Splunk Dashboard, Service Now dashboard , VS Code, IntelliJ, Sql Developer, Jules CI/CD 
+  ]
+]
+
+
+
+#custom-title("Certifications")[
+  #skills()[
+    - #link("https://drive.google.com/file/d/12K6AhU-woXlFiZg9GOn6ixbOlS1_HFnD/view")[AWS Certified Cloud Practitioner \u{1F517}]
+    - GitHub Copilot: Your AI Coding Assistant. Use Copilot AI to generate code, unit tests, + more.
+    - Deep Dive in Core Java programming -Standard Edition
   ]
 ]

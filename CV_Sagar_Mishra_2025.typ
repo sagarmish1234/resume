@@ -41,11 +41,14 @@
     , day:1),
     "Present"
   )[
-    - Improved code coverage from 20% to 90% using JaCoCo, JUnit, and CI/CD pipelines.
-    - Developed RESTful microservices with APIs, improving data accuracy by more than 15%.
-    - Reduced API latency by 40% during migration with cloud tools and monitoring.
-    - Automated data loading using Bash scripts, cutting processing time by 50%.
-    - Achieved 100% on-time Agile delivery via story pointing, planning poker and daily stand-ups.
+    - Developed high-performance Spring Batch applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
+    - Architected and migrated scalable RESTful microservices from Gaia Cloud to AWS Lambda, reducing operational costs by 25% and enhancing serverless application scalability.
+    - Designed and implemented REST APIs using Spring Boot framework, consuming GraphQL APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
+    - Leveraged Redis in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
+    - Led development of automated ETL Bash scripts, enabling seamless data migration between data centers, slashing data loading time by 50% (from 12 hours to 6 hours).
+    - Streamlined CI/CD pipelines using Jenkins, Git, and Docker, automating deployments and achieving 100% on-time delivery for production releases.
+    - Integrated Cassandra NoSQL database into microservices architecture, enabling massive scalability to support high-throughput fintech workloads with 99.9% uptime.
+    - Collaborated in Agile sprints, ensuring 100% on-time delivery through effective story pointing, Planning Poker, and daily stand-ups, enhancing team productivity.
   ]
 
   #work-heading(

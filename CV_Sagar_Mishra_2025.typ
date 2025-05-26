@@ -17,7 +17,6 @@
   email: email,
   website: personal-site,
   linkedin-user-id: linkedin,
-  github-username: github
 )
 
 #custom-title("Education")[

@@ -30,6 +30,14 @@
     -  CGPA - *9.02*
   ]
 ]
+#custom-title("Skills")[
+  #skills()[
+    - *Languages:* Java,Python, C++, JavaScript, SQL
+    - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot, Spring batch, Javascript, ShadCN UI, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS
+    - *Developer Tools:* Control - M, Splunk Dashboard, Service Now dashboard , VS Code, IntelliJ, Sql Developer, Jules CI/CD 
+  ]
+]
+
 
 #custom-title("Experience")[  
   #work-heading(
@@ -41,10 +49,9 @@
     "Present"
   )[
     - Developed high-performance Spring Batch applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
-    - Architected and migrated scalable RESTful microservices from Gaia Cloud to AWS Lambda, reducing operational costs by 25% and enhancing serverless application scalability.
+    - Architected and migrated scalable RESTful microservices from Gaia Cloud to AWS ECS, reducing operational costs by 25% and enhancing serverless application scalability.
     - Designed and implemented REST APIs using Spring Boot framework, consuming GraphQL APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
     - Leveraged Redis in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
-    - Led development of automated ETL Bash scripts, enabling seamless data migration between data centers, slashing data loading time by 50% (from 12 hours to 6 hours).
     - Streamlined CI/CD pipelines using Jenkins, Git, and Docker, automating deployments and achieving 100% on-time delivery for production releases.
     - Integrated Cassandra NoSQL database into microservices architecture, enabling massive scalability to support high-throughput fintech workloads with 99.9% uptime.
     - Collaborated in Agile sprints, ensuring 100% on-time delivery through effective story pointing, Planning Poker, and daily stand-ups, enhancing team productivity.
@@ -72,25 +79,14 @@
     project-url: "https://leetcode-elo-app.onrender.com/"
   )[
 
-      - Designed Spring Boot backend to fetch and update PostgreSQL database with new problems.
-      - Implemented caching to optimize React frontend API calls, cutting redundant requests.
-      - Developed React frontend for seamless user interaction and real-time data visualization.
-      - Automated weekly data updates, ensuring current PostgreSQL database without manual work.
-      - Optimized database queries and API response times for improved scalability and efficiency.
-
+    - Built full-stack dashboard with Spring Boot, Java, MySQL: automated project filtration, 90%+ effort  reduction.
+    - Developed React front-end: enabled efficient project filtering via modern web technologies with more than 4 criterias
+    - Implemented scalable MySQL database for efficient data management and querying with upto 400+ concurrent users
+    - Applied full-stack skills (Spring Boot, Java, MySQL, React) to create impactful automation tool.
+    - Certified in full-stack development (Cognizant Digital Nurture), demonstrating expertise with a score of more than 70%
   ]
 
   ]
-
-
-#custom-title("Skills")[
-  #skills()[
-    - *Languages:* Java,Python, C++, JavaScript, SQL
-    - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot, Spring batch, Javascript, ShadCN UI, Maven, Junit5, Cucumber testing, Cassandra DB, Docker
-    - *Developer Tools:* Control - M, Splunk Dashboard, Service Now dashboard , VS Code, IntelliJ, Sql Developer, Jules CI/CD 
-  ]
-]
-
 
 
 #custom-title("Certifications")[

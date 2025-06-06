@@ -48,13 +48,13 @@
     , day:1),
     "Present"
   )[
-    - Developed high-performance Spring Batch applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
-    - Architected and migrated scalable RESTful microservices from Gaia Cloud to AWS ECS, reducing operational costs by 25% and enhancing serverless application scalability.
-    - Designed and implemented REST APIs using Spring Boot framework, consuming GraphQL APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
-    - Leveraged Redis in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
-    - Streamlined CI/CD pipelines using Jenkins, Git, and Docker, automating deployments and achieving 100% on-time delivery for production releases.
-    - Integrated Cassandra NoSQL database into microservices architecture, enabling massive scalability to support high-throughput fintech workloads with 99.9% uptime.
-    - Collaborated in Agile sprints, ensuring 100% on-time delivery through effective story pointing, Planning Poker, and daily stand-ups, enhancing team productivity.
+    - Developed high-performance math *Spring Batch* applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
+    - Architected and migrated scalable RESTful microservices from *Gaia Cloud* to *AWS ECS*, reducing operational costs by 25% and enhancing application scalability.
+    - Designed and implemented REST APIs using *Spring Boot* framework, consuming *GraphQL* APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
+    - Leveraged *Redis* in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
+    - Streamlined CI/CD pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and achieving 100% on-time delivery for production releases.
+    - Integrated *Cassandra* NoSQL database into microservices architecture, enabling massive scalability to support high-throughput fintech workloads with 99.9% uptime.
+    - Collaborated in *Agile* sprints, ensuring 100% on-time delivery through effective story pointing, Planning Poker, and daily stand-ups, enhancing team productivity.
   ]
 
   #work-heading(

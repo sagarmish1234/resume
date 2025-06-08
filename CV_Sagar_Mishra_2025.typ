@@ -19,6 +19,11 @@
   linkedin-user-id: linkedin,
 )
 
+#custom-title("Career objective")[
+#set par(justify: true)
+Accomplished Java Spring Boot Developer with over three years of experience in designing and developing scalable microservices and high-performance RESTful APIs using Spring Boot, Docker, and AWS ECS. Possesses working knowledge of CI/CD pipelines to support streamlined development processes. Seeking to apply expertise in Spring Boot development to create innovative and efficient backend solutions in a forward-thinking organization.
+]
+
 #custom-title("Education")[
   #education-heading(
     "VSSUT, Veer Surendra Sai University of Technology",
@@ -64,8 +69,8 @@
     datetime(year:2022, month:3, day:1),
     datetime(year:2022, month:6, day:1),
   )[
-    - Built full-stack dashboard with Spring Boot, Java, MySQL, automating filtration, cutting effort by 90%.
-    - Developed React front-end, enabling project filtering with 4+ criteria using modern web technologies.
+    - Built full-stack dashboard with *Spring Boot*, *Java*, *MySQL*, automating filtration, cutting effort by 90%.
+    - Developed *React* front-end, enabling project filtering with 4+ criteria using modern web technologies.
     - Implemented scalable MySQL database, supporting 400+ users for efficient data querying.    
     - Leveraged Spring Boot, Java, MySQL, and React to create an impactful automation tool.
     - Earned Cognizant Digital Nurture full-stack certification, scoring more than 70% in expertise.

@@ -19,11 +19,6 @@
   linkedin-user-id: linkedin,
 )
 
-#custom-title("Career objective")[
-#set par(justify: true)
-Accomplished Java Spring Boot Developer with over three years of experience in designing and developing scalable microservices and high-performance RESTful APIs using Spring Boot, Docker, and AWS ECS. Possesses working knowledge of CI/CD pipelines to support streamlined development processes. Seeking to apply expertise in Spring Boot development to create innovative and efficient backend solutions in a forward-thinking organization.
-]
-
 #custom-title("Education")[
   #education-heading(
     "VSSUT, Veer Surendra Sai University of Technology",
@@ -39,7 +34,7 @@ Accomplished Java Spring Boot Developer with over three years of experience in d
   #skills()[
     - *Languages:* Java,Python, C++, JavaScript, SQL
     - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot, Spring batch, Javascript, ShadCN UI, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS
-    - *Developer Tools:* Control - M, Splunk Dashboard, Service Now dashboard , VS Code, IntelliJ, Sql Developer, Jules CI/CD 
+    - *Developer Tools:* Control - M, Splunk, VS Code, IntelliJ, Dbeaver, Jenkins CI/CD 
   ]
 ]
 
@@ -100,7 +95,3 @@ Accomplished Java Spring Boot Developer with over three years of experience in d
     - Deep Dive in Core Java programming -Standard Edition
 ]
 
-#custom-title("EXTRACURRICULAR")[
-  - Demonstrated usage of AI tools like Github Copilot, Codeium and explored its applications
-  - NCC Member from 2018 to 2021(B & C certificate holder)
-]

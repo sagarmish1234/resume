@@ -48,9 +48,9 @@
     , day:1),
     "Present"
   )[
-    - Developed high-performance math *Spring Batch* applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
+    - Spearheaded high-performance *Spring Batch* applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
     - Architected and migrated scalable RESTful microservices from *Gaia Cloud* to *AWS ECS*, reducing operational costs by 25% and enhancing application scalability.
-    - Designed and implemented REST APIs using *Spring Boot* framework, consuming *GraphQL* APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
+    - Designed and authored REST APIs using *Spring Boot* framework, consuming *GraphQL* APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
     - Leveraged *Redis* in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
     - Streamlined CI/CD pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and achieving 100% on-time delivery for production releases.
     - Integrated *Cassandra* NoSQL database into microservices architecture, enabling massive scalability to support high-throughput fintech workloads with 99.9% uptime.
@@ -65,8 +65,8 @@
     datetime(year:2022, month:6, day:1),
   )[
     - Built full-stack dashboard with *Spring Boot*, *Java*, *MySQL*, automating filtration, cutting effort by 90%.
-    - Developed *React* front-end, enabling project filtering with 4+ criteria using modern web technologies.
-    - Implemented scalable MySQL database, supporting 400+ users for efficient data querying.    
+    - Engineered an interactive *React-based* UI featuring advanced filtering capabilities across 4+ project attributes, resulting in a 45% reduction in user search time.
+    - Implemented efficient indexing strategies on MySQL database, supporting 400+ users for efficient data querying.    
     - Leveraged Spring Boot, Java, MySQL, and React to create an impactful automation tool.
     - Earned Cognizant Digital Nurture full-stack certification, scoring more than 70% in expertise.
 
@@ -78,12 +78,11 @@
     "Leecode Elo tracker"+"\u{1F517}",
     project-url: "https://leetcode-elo-app.onrender.com/"
   )[
-
-    - Built full-stack dashboard with Spring Boot, Java, MySQL: automated project filtration, 90%+ effort  reduction.
-    - Developed React front-end: enabled efficient project filtering via modern web technologies with more than 4 criterias
-    - Implemented scalable MySQL database for efficient data management and querying with upto 400+ concurrent users
-    - Applied full-stack skills (Spring Boot, Java, MySQL, React) to create impactful automation tool.
-    - Certified in full-stack development (Cognizant Digital Nurture), demonstrating expertise with a score of more than 70%
+    - Designed a robust backend using Spring Boot to fetch prebuilt data and update a PostgreSQL database with newly added problems.
+    - Built and optimized caching mechanisms to streamline API calls from the React frontend, reducing redundant requests and enhancing performance. 
+    - Instrumented a dynamic frontend with React for seamless user interaction and real-time data visualization.
+    - Automated weekly data updates to ensure the database remains current without manual intervention.
+    - Optimized database queries and API response times for enhanced scalability and efficiency.
   ]
 
   ]

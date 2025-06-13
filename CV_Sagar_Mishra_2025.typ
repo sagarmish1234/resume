@@ -33,7 +33,7 @@
 #custom-title("Skills")[
   #skills()[
     - *Languages:* Java,Python, C++, JavaScript, SQL
-    - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot, Spring batch, Javascript, ShadCN UI, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS
+    - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot,Spring MVC , Spring batch, Javascript, ShadCN UI, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS
     - *Developer Tools:* Control - M, Splunk, VS Code, IntelliJ, Dbeaver, Jenkins CI/CD, Postman, Bruno 
   ]
 ]
@@ -49,7 +49,7 @@
     "Present"
   )[
     - Spearheaded high-performance *Spring Batch* applications for a fintech company, processing millions of records daily, improving data processing efficiency by 30% through optimized batch configurations.
-    - Architected and migrated scalable RESTful microservices from *Gaia Cloud* to *AWS ECS*, reducing operational costs by 25% and enhancing application scalability.
+    - Architected and migrated scalable *RESTful microservices* from *Gaia Cloud* to *AWS ECS*, reducing operational costs by 25% and enhancing application scalability.
     - Designed and authored REST APIs using *Spring Boot* framework, consuming *GraphQL* APIs to drive modernization efforts and improve data consistency by 20% across distributed systems.
     - Leveraged *Redis* in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
     - Streamlined CI/CD pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and achieving 100% on-time delivery for production releases.

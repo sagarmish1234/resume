@@ -34,7 +34,7 @@
   #skills()[
     - *Languages:* Java,Python, C++, JavaScript, SQL
     - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot,Spring MVC , Spring batch, Typescript, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS, Linux, Jenkins
-    - *Developer Tools:* BMC Control - M, Splunk, VS Code, IntelliJ, Dbeaver, Jenkins CI/CD, Postman, Bruno 
+    - *Developer Tools:* BMC Control - M, Splunk, VS Code, IntelliJ, Dbeaver, Jenkins CI/CD, Postman, Bruno, Jira 
   ]
 ]
 

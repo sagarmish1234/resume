@@ -49,11 +49,11 @@
     "Present"
   )[
     - Gathered functional requirements and developed technical specifications to deliver robust, scalable solutions for fintech clients, consistently meeting business needs and quality standards.
-    - Designed and developed RESTful APIs and microservices using *Java 21*, *Spring Boot*, and *J2EE*, ensuring modular, secure, and maintainable code for enterprise-scale systems. 
+    - Designed and developed *RESTful APIs* and microservices using *Java 21*, *Spring Boot*, and *J2EE*, ensuring modular, secure, and maintainable code for enterprise-scale systems. 
     - Architected and migrated high-performance applications to *AWS ECS* & *API Gateway*, leveraging cloud-native services and DevOps practices to improve scalability and reduce operational costs by 25%.
     - Resolved defects and bugs across QA, pre-production, and production environments, contributing to continuous improvement and reliable releases.
     - Leveraged *Redis* in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
-    - Streamlined CI/CD pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and ensuring 100% on-time delivery for production releases in a DevOps model    
+    - Streamlined *CI/CD* pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and ensuring 100% on-time delivery for production releases in a DevOps model    
     - Collaborated cross-functionally with product management and other business units to deliver results and drive project success.
     - Practiced *Agile* development with *SCRUM*, participating in sprint planning, story pointing, and daily stand-ups to enhance team productivity and deliverables.
   ]

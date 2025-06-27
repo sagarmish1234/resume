@@ -32,8 +32,8 @@
 ]
 #custom-title("Skills")[
   #skills()[
-    - *Languages:* Java,Python, C++, JavaScript, SQL
-    - *Technologies/Frameworks:* HTML5, CSS3, git, React, Oracle,Spring boot,Spring MVC , Spring batch, Typescript, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS, Linux, Jenkins, Hibernate
+    - *Languages:* Java,Python, C++, JavaScript, SQL, HTML5, CSS3
+    - *Technologies/Frameworks:*  git, React, Oracle,Spring boot,Spring MVC , Spring batch, Typescript, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS, Linux, Jenkins, Hibernate, Apache Kafka
     - *Developer Tools:* BMC Control - M, Splunk, VS Code, IntelliJ, Dbeaver, Jenkins CI/CD, Postman, Bruno, Jira 
   ]
 ]
@@ -53,8 +53,8 @@
     - Architected and migrated high-performance applications to *AWS ECS* & *API Gateway*, leveraging cloud-native services and DevOps practices to improve scalability and reduce operational costs by 25%.
     - Resolved defects and bugs across QA, pre-production, and production environments, contributing to continuous improvement and reliable releases.
     - Leveraged *Redis* in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
-    - Streamlined *CI/CD* pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and ensuring 100% on-time delivery for production releases in a DevOps model    
-    - Collaborated cross-functionally with product management and other business units to deliver results and drive project success.
+    - Streamlined *CI/CD* pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and ensuring 100% on-time delivery for production releases in a DevOps model   
+    - Implemented and managed high-throughput data pipelines using *Apache Kafka*, processing over 10,000 messages/second for real-time financial transaction analytics and ensuring data consistency across distributed services.
     - Practiced *Agile* development with *SCRUM*, participating in sprint planning, story pointing, and daily stand-ups to enhance team productivity and deliverables.
   ]
 

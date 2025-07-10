@@ -32,8 +32,8 @@
 ]
 #custom-title("Skills")[
   #skills()[
-    - *Languages:* Java,Python, C++, JavaScript, SQL, HTML5, CSS3
-    - *Technologies/Frameworks:*  git, React, Oracle,Spring boot,Spring MVC , Spring batch, Typescript, Maven, Junit5, Cucumber testing, Cassandra DB, Docker, AWS ECS, Linux, Jenkins, Hibernate, Apache Kafka
+    - *Languages:* Java,Python,JavaScript, SQL, HTML5, CSS3
+    - *Technologies/Frameworks:*  git, React, Oracle, Spring boot, Spring MVC, Spring batch, Typescript, Maven, Junit5, Cassandra DB, Docker, AWS ECS, Linux, Jenkins, Hibernate/JPA, Apache Kafka
     - *Developer Tools:* BMC Control - M, Splunk, VS Code, IntelliJ, Dbeaver, Jenkins CI/CD, Postman, Bruno, Jira 
   ]
 ]
@@ -48,46 +48,42 @@
     , day:1),
     "Present"
   )[
-    - Gathered functional requirements and developed technical specifications to deliver robust, scalable solutions for fintech clients, consistently meeting business needs and quality standards.
-    - Designed and developed *RESTful APIs* and microservices using *Java 21*, *Spring Boot*, and *J2EE*, ensuring modular, secure, and maintainable code for enterprise-scale systems. 
-    - Architected and migrated high-performance applications to *AWS ECS* & *API Gateway*, leveraging cloud-native services and DevOps practices to improve scalability and reduce operational costs by 25%.
+    - Engineered scalable fintech applications by defining functional requirements and creating precise technical specifications to meet strategic business goals.
+    - Built and maintained a suite of high-performance *RESTful APIs* and *microservices*, leveraging *Java* *21* and *Spring* *Boot* to ensure code security and modularity.
+    - Architected a cost-efficient *AWS* *cloud* infrastructure using *ECS* and *API* *Gateway*, successfully migrating legacy applications and achieving a 25% reduction in operational overhead.
     - Resolved defects and bugs across QA, pre-production, and production environments, contributing to continuous improvement and reliable releases.
-    - Leveraged *Redis* in-memory caching to optimize API performance, reducing redundant downstream API calls by 35% and cutting response times by 40%.
-    - Streamlined *CI/CD* pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and ensuring 100% on-time delivery for production releases in a DevOps model   
-    - Implemented and managed high-throughput data pipelines using *Apache Kafka*, processing over 10,000 messages/second for real-time financial transaction analytics and ensuring data consistency across distributed services.
-    - Practiced *Agile* development with *SCRUM*, participating in sprint planning, story pointing, and daily stand-ups to enhance team productivity and deliverables.
+    - Achieved a 40% reduction in API latency by strategically integrating *Redis*, optimizing data retrieval and eliminating 35% of redundant downstream calls.
+    - Streamlined *CI/CD* pipelines using *Jenkins*, *Git*, and *Docker*, automating deployments and ensuring 100% on-time delivery for production releases in a DevOps model.   
+    - Built and managed high-throughput data pipelines with *Apache* *Kafka* to process over 10,000 messages/sec, enabling real-time financial analytics.
+    - Championed *Agile/Scrum* best practices, actively contributing to sprint planning, story pointing, and backlog grooming to improve team velocity and deliverable predictability.
   ]
 
-  #work-heading(
-    "Intern",
-    "Cognizant Technology Solutions",
-    "Hyderabad, Telangana",
-    datetime(year:2022, month:3, day:1),
-    datetime(year:2022, month:6, day:1),
-  )[
-    - Built full-stack dashboard with *Spring Boot*, *Java*, *MySQL*, automating filtration, cutting effort by 90%.
-    - Engineered an interactive *React-based* UI featuring advanced filtering capabilities across 4+ project attributes, resulting in a 45% reduction in user search time.
-    - Implemented efficient indexing strategies on MySQL database, supporting 400+ users for efficient data querying.    
-  ]
 ]
 
 #custom-title("Projects")[
   #project-heading(
-    "Leecode Elo tracker"+"\u{1F517}",
+    "leecode elo tracker"+"\u{1f517}",
     project-url: "https://leetcode-elo-app.onrender.com/"
   )[
-    - Designed a robust backend using Spring Boot to fetch prebuilt data and update a PostgreSQL database with newly added problems.
-    - Built and optimized caching mechanisms to streamline API calls from the React frontend, reducing redundant requests and enhancing performance. 
-    - Instrumented a dynamic frontend with React for seamless user interaction and real-time data visualization.
+    - Designed a robust backend using spring boot to fetch prebuilt data and update a postgresql database with newly added problems.
+    - Built and optimized caching mechanisms to streamline api calls from the react frontend, reducing redundant requests and enhancing performance. 
+    - Instrumented a dynamic frontend with react for seamless user interaction and real-time data visualization.
     - Automated weekly data updates to ensure the database remains current without manual intervention.
   ]
 
+  #project-heading(
+    "Uptime Monitor | Personal Project",
+  )[
+    - Developed a full-stack web application to monitor the uptime of websites and services, similar to UptimeRobot or Better Stack.
+    - Engineered a backend service in Java to perform periodic HTTP checks on user-defined endpoints to determine their status (up/down).
+    - Built a user-friendly frontend with TypeScript and React to allow users to add, view, and manage monitored URLs and see their real-time status.
+    - Designed a system to send email notifications to users when a monitored service goes down.  
+]
   ]
 
 
 #custom-title("Certifications")[
     - #link("https://drive.google.com/file/d/12K6AhU-woXlFiZg9GOn6ixbOlS1_HFnD/view")[AWS Certified Cloud Practitioner \u{1F517}]
     - GitHub Copilot: Your AI Coding Assistant. Use Copilot AI to generate code, unit tests, + more.
-    - Deep Dive in Core Java programming -Standard Edition
 ]
 
